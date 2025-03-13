@@ -2,7 +2,7 @@ import os
 import shutil
 
 # Source folder in iCloud Drive's Documents folder
-source_folder = '/Users/zem/Documents'
+source_folder = #'/Users/your/desired/path/to/folder' Example:'Users/zem/Documents'
 
 # Target folders in Documents folder
 target_folders = {
