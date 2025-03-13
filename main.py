@@ -4,7 +4,8 @@ import shutil
 # Source folder in iCloud Drive's Documents folder
 source_folder = #'/Users/your/desired/path/to/folder' Example:'Users/zem/Documents'
 
-# Target folders in Documents folder
+# Target folders in Documents or whatever folder you want to use for storage.
+#Replace the following with your desired path to your desired folder
 target_folders = {
     'images': '/Users/zem/Documents/Images',
     'documents': '/Users/zem/Documents/Documents',
