@@ -2,10 +2,11 @@ import os
 import shutil
 import time
 
-# Source folder in iCloud Drive's Documents folder
-source_folder = '/Users/zem/Documents'
+# Source folder in iCloud Drive's desired folder
+#source_folder = '/Users/your/desired/path/to/folder' Example:'Users/zem/Documents'
 
 # Target folders in Documents folder
+#Replace the following with your desired path to your desired folder
 target_folders = {
     'images': '/Users/zem/Documents/Images',
     'documents': '/Users/zem/Documents/Documents',
