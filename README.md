@@ -4,9 +4,9 @@ An automatic file organizer for macOS that sorts files into designated folders b
 
  ## Features  
 Automatically organizes files by type (Images, Videos, Documents, etc.).  
-Customizable folder structure** – modify it to fit your needs.  
-Runs on macOS Terminal** with Python 3.  
-Processes files in seconds.  
+Customizable folder structure, can be modified to fit your needs.
+Runs on macOS Terminal with Python 3.  
+Quick and efficient. Processes files in seconds.  
 
 ## Installation  
 # 1. 
